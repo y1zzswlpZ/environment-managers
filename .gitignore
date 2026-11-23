@@ -1,0 +1,19 @@
+# Runtime state and local projects
+**/data/
+**/logs/
+**/backups/
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.bak
+.vs/
+artifacts/
+test-work/
+.ctf-venv/
+.venv/
+venv/
+.env
+.env.*
+!.env.example

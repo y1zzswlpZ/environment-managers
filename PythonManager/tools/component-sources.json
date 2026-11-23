@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "six",
+    "Version": "1.16.0",
+    "File": "six-1.16.0-py2.py3-none-any.whl",
+    "URL": "https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl",
+    "SHA256": "8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+  },
+  {
+    "Name": "platformdirs",
+    "Version": "2.5.4",
+    "File": "platformdirs-2.5.4-py3-none-any.whl",
+    "URL": "https://files.pythonhosted.org/packages/61/e0/15ba41c6716acb033c3793be3a02f26c53914ecd9bdd6b315001f8f5f581/platformdirs-2.5.4-py3-none-any.whl",
+    "SHA256": "af0276409f9a02373d540bf8480021a048711d572745aef4b7842dad245eba10"
+  },
+  {
+    "Name": "filelock",
+    "Version": "3.12.2",
+    "File": "filelock-3.12.2-py3-none-any.whl",
+    "URL": "https://files.pythonhosted.org/packages/00/45/ec3407adf6f6b5bf867a4462b2b0af27597a26bd3cd6e2534cb6ab029938/filelock-3.12.2-py3-none-any.whl",
+    "SHA256": "cbb791cdea2a72f23da6ac5b5269ab0a0d161e9ef0100e653b69049a7706d1ec"
+  },
+  {
+    "Name": "distlib",
+    "Version": "0.3.8",
+    "File": "distlib-0.3.8-py2.py3-none-any.whl",
+    "URL": "https://files.pythonhosted.org/packages/8e/41/9307e4f5f9976bc8b7fea0b66367734e8faf3ec84bc0d412d8cfabbb66cd/distlib-0.3.8-py2.py3-none-any.whl",
+    "SHA256": "034db59a0b96f8ca18035f36290806a9a6e6bd9d1ff91e45a7f172eb17e51784"
+  },
+  {
+    "Name": "virtualenv",
+    "Version": "20.15.1",
+    "File": "virtualenv-20.15.1-py2.py3-none-any.whl",
+    "URL": "https://files.pythonhosted.org/packages/6f/43/df7c7b1b7a5ac4e41fac24c3682c1cc32f2c1d683d308bba2500338d1e3e/virtualenv-20.15.1-py2.py3-none-any.whl",
+    "SHA256": "b30aefac647e86af6d82bfc944c556f8f1a9c90427b2fb4e3bfbf338cb82becf"
+  }
+]
